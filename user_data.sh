@@ -11,7 +11,8 @@ cat <<EOF > /var/www/html/index.html
 <font color="green">Server PrivateIP: <font color="aqua">$myip<br><br>
 
 <font color="magenta">
-<b>Version 1.14.0</b>
+<b>Terraform Version 1.14.0</b><br>
+<b>Web version 2</b>
 </body>
 </html>
 EOF
